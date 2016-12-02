@@ -23,8 +23,8 @@ img {
   width: 40%;
   margin: 4% auto;
   display: block;
-  border: 4px double #666;
-  border-radius: 4px;
+  border: 8px double #ccc;
+  border-radius: 10px;
   opacity: 0.9;
 }
 
